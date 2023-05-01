@@ -4,7 +4,7 @@ Hi! I’m Kat (she/her), a software engineer with a love of clean design and wel
 
 A perennial student, I find joy in learning new things and sharing these discoveries with others! What started as a hobby grew into a desire to learn all I could about software engineering and to apply those skills towards tackling real-world problems, improving peoples’ lives, and doing good in the world.
 
-Hobbies: Painting, Hiking, Reading, and Cooking
+Hobbies: Painting, Ceramics, Hiking, Reading, and Cooking
 
 Skills: LARAVEL / VUE JS / REACT / RUBY ON RAILS / PHP / RUBY / JS / AWS DEVOPS / DOCKER / SQL / REACT / HTML / CSS / APIS / ELASTICSEARCH 
 
